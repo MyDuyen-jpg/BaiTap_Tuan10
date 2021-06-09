@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Button bntClick,btnDel,btnPost,btnPut;
     TextView tvDisplay;
 
-    String url = "https://60aafeb366f1d0001777358a.mockapi.io/Student"; /// đường link này là mình tạo ở trên á hả h rồi copy bỏ qua
+    String url = "https://60aafeb366f1d0001777358a.mockapi.io/Student";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
